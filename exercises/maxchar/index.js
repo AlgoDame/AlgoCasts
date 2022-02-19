@@ -29,7 +29,6 @@ function maxChar(str) {
 
 }
 
-let ans = maxChar("abcccccccd")
-ans
+
 
 module.exports = maxChar;
