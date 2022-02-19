@@ -16,6 +16,4 @@ function reverseInt(n) {
     
 }
 
-let ans = reverseInt(-15)
-ans
 module.exports = reverseInt;
